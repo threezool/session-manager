@@ -1,0 +1,17 @@
+{
+  "name": "session-manager",
+  "title": "Session Manager",
+  "description": "Allows Dungeon Masters to prep one world but allowing severeral sessions to run on the same world in parallell.",
+  "authors": [{"name":"Kim Böndergaard","email":"threezool@gmail.com" }],
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion":"0.7.9",
+  "scripts": [
+  	"session-manager.js"
+  ],
+  "socket": true,
+  "changelog":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/README.md",
+  "url":"https://github.com/wsaunders1014/LookAtThat",
+  "manifest":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/module.json",
+  "download":"https://github.com/wsaunders1014/LookAtThat/archive/master.zip"
+}
