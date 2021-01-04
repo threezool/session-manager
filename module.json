@@ -10,8 +10,8 @@
   	"session-manager.js"
   ],
   "socket": true,
-  "changelog":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/README.md",
-  "url":"https://github.com/wsaunders1014/LookAtThat",
-  "manifest":"https://raw.githubusercontent.com/wsaunders1014/LookAtThat/master/module.json",
-  "download":"https://github.com/wsaunders1014/LookAtThat/archive/master.zip"
+  "changelog":"https://raw.githubusercontent.com/threezool/session-manager/main/README.md",
+  "url":"https://github.com/threezool/session-manager",
+  "manifest":"https://raw.githubusercontent.com/threezool/session-manager/main/module.json",
+  "download":"https://github.com/threezool/session-manager/archive/master.zip"
 }
